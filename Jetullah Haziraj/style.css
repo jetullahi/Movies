@@ -1,0 +1,197 @@
+body {
+    background-color: rgb(9, 9, 9);
+}
+
+.main h1 {
+    display: inline;
+    color: white;
+    margin-left: 20px;
+}
+
+.main .search input {
+    margin-left: 80%;
+    background-color: transparent;
+    height: 25px;
+    
+
+
+}
+
+
+.main .search button {
+    height: 30px;
+    width: 100px;
+    background-color: rgb(39, 40, 41);
+    color: white;
+
+}
+
+.nav {
+    width: 97%;
+    height: 50px;
+    background-color: rgb(39, 40, 41);
+    margin-left: 20px;
+
+
+}
+
+.button ul li {
+    display: inline;
+    font-size: 20px;
+
+
+
+}
+
+.button ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-flex;
+}
+
+.center {
+    background-color: white;
+    width: 97%;
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.img1 img {
+    width: 97%;
+    height: 600px;
+    margin-left: 20px;
+}
+
+.img2 img {
+    width: 240px;
+    height: 180px;
+    display: inline;
+    padding: 5px;
+    margin-left: 75px;
+
+}
+
+.text p {
+
+    display: inline;
+    font-size: 20px;
+    padding: 45px;
+    margin-left: 50px;
+
+
+}
+
+.side {
+    background-color: white;
+    width: 250px;
+    height: 750px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    padding-top: 10px;
+   
+
+}
+
+.side img {
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+}
+
+.side p {
+    font-size: 20px;
+    padding-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mid {
+    background-color: white;
+    float: left;
+    height: 750px;
+    width: 250px;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.mid img {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    padding-top: 50px;
+}
+
+.mid p {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 30px;
+
+}
+
+.text2 {
+    background-color: white;
+    height: 760px;
+    width: 400px;
+    float: left;
+}
+
+.text2 p {
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 30px;
+
+
+}
+
+.text2 p strong a {
+    text-decoration: none;
+
+}
+
+.text2 h4 {
+    font-size: 25px;
+    padding-left: 30px;
+}.video{
+    float: left;
+    width: 521px;
+    height: 760px;
+    background-color: white;
+}.video video {
+    width: 400px;
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+
+}.video p {
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 30px;
+}.video p a{
+    text-decoration: none;
+}.movie-list{
+    background-color: white;
+    width: 97%;
+    margin-left: 20px;
+    height: auto;
+    
+}
+.movie-list h4{
+    font-size: 30px;
+    padding: 10px;
+   
+}
+.movie-list ul li{
+    display: inline;
+    padding: 40px;
+}.movie-list ul li a{
+    font-size: 20px;
+    padding: 20px;
+    text-decoration: none;
+
+}
+
+
+
